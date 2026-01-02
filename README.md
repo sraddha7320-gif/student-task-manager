@@ -14,4 +14,4 @@ A simple web-based task manager built using HTML, CSS, and JavaScript.
 - GitHub Pages
 
 ## Live Demo
-[Click here to view project](https://your-link-here)
+[Click here to view project](https://sraddha7320-gif.github.io/student-task-manager/)
